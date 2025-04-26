@@ -426,3 +426,17 @@ border-top: 1px solid #444;
 font-size: 14px;
 }
 
+
+/* Ajout d'une section spécifique au chatbot */
+.chatbot-section {
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.chatbot-section h1 {
+    font-size: 24px;
+    color: #0078d4;
+    margin-bottom: 15px;
+}
+
